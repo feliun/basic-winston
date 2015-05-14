@@ -1,0 +1,16 @@
+{
+  "name": "basic-winston",
+  "version": "1.0.0",
+  "description": "a basic wrapper for winston",
+  "main": "index.js",
+  "keywords": [
+    "winston",
+    "logger"
+  ],
+  "author": "Felipe Polo Ruiz <felipe.polo@gmail.com> (https://github.com/feliun)",
+  "license": "MIT",
+  "homepage": "https://github.com/feliun/basic-winston",
+  "dependencies": {
+    "winston": "^1.0.0"
+  }
+}
